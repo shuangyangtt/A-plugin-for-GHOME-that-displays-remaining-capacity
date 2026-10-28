@@ -1,0 +1,6 @@
+{
+  "uuid": "claude-usage@pepsi.local",
+  "name": "Claude 用量",
+  "description": "在顶栏显示 Claude Code 当前会话(5小时)用量",
+  "shell-version": ["45", "46", "47", "48", "49", "50"]
+}
